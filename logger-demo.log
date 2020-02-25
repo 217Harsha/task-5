@@ -1,0 +1,22 @@
+2020-02-25 20:22:33 INFO  Interest:24 - enter the input for calculating simple interest:
+
+2020-02-25 20:22:33 INFO  Interest:15 - enter the principalAmount:
+2020-02-25 20:22:52 INFO  Interest:17 - enter the rateOfInterest:
+2020-02-25 20:22:55 INFO  Interest:19 - enter the timeinYears :
+2020-02-25 20:22:55 INFO  Interest:34 - simple interest:3750.0
+
+2020-02-25 20:22:55 INFO  Interest:29 - enter the input for calculating compound interest:
+
+2020-02-25 20:22:55 INFO  Interest:15 - enter the principalAmount:
+2020-02-25 20:23:01 INFO  Interest:17 - enter the rateOfInterest:
+2020-02-25 20:23:02 INFO  Interest:19 - enter the timeinYears :
+2020-02-25 20:23:03 INFO  Interest:35 - compound interest:50434.248375
+
+2020-02-25 20:23:21 INFO  Construction:12 - 1.standard materials
+2.above standard materials
+3.highstandardmaterials
+4.highstandard+fullyautomated
+
+2020-02-25 20:23:33 INFO  Construction:14 - enter area in square feet
+
+2020-02-25 20:23:39 INFO  Construction:16 - The total cost is :58637500INR
